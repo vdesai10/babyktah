@@ -135,7 +135,7 @@ function endGame() {
       "rgb(179, 9, 9)",
       50,
       BOLD,
-      "AVENIR"
+      "IMPACT"
     );
     const restartMessage = new Text(
       "Click to try again",
@@ -144,7 +144,7 @@ function endGame() {
       "white",
       25,
       ITALIC,
-      "AVENIR"
+      "IMPACT"
     );
     endMessage.display();
     restartMessage.display();
