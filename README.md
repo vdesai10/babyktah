@@ -3,5 +3,5 @@ This game is about a cirlce who is trying to survive an apacolypse where all the
 How to Play:
 Use the mouse to move around and left click to place a copy of yourself to distract the zombies. Try to stay alive for as long as you can.
 
-Varun Desai
+Varun Desai with extern help from Megan and Amanda
 [Game link](https://vdesai10.github.io./) 
